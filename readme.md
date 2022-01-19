@@ -1,5 +1,7 @@
 # THIS PROJECT IS DEAD
 
+https://dotblogs.com.tw/yc421206/2012/04/30/71911 [C#.NET] 使用 7-zip 解壓縮檔案
+
 Please use this actively maintained fork: https://github.com/squid-box/SevenZipSharp
 
 -------------------------------------------------------------
