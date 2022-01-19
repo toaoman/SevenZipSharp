@@ -2,6 +2,8 @@
 
 https://dotblogs.com.tw/yc421206/2012/04/30/71911 [C#.NET] 使用 7-zip 解壓縮檔案
 
+https://www.itread01.com/articles/1498675086.html SevenZipSharp的入門教程（包含如何加密壓縮，解密壓縮）
+
 Please use this actively maintained fork: https://github.com/squid-box/SevenZipSharp
 
 -------------------------------------------------------------
